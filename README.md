@@ -9,4 +9,4 @@ Cargo is Rust's package manager. It allows you to easily declare and manage depe
 Cargo uses a `Cargo.toml` file to declare dependencies. This file is located in the root
 directory of your project.
 ## Example
-<!-- add a link of doc https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html -->
+Doc https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html
